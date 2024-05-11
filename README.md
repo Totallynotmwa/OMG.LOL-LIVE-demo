@@ -7,6 +7,7 @@
 This is omg.lol's live demo i stole using inspect element Since am not paying omg.lol for a ui design Its mit license cause am pretty sure omg.lol is under mit license (If wrong dm me)
 
 the design will be used on my site it looks good 
+Site: current w.i.p
 
 
 
