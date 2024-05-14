@@ -8,7 +8,7 @@ This is omg.lol's live demo i stole using inspect element Since am not paying om
 
 the design will be used on my site it looks good 
 <br>
-Site: current w.i.p
+Site: https://mwa.lol
 
 
 
